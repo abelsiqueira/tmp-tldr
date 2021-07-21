@@ -1,5 +1,17 @@
 [
   {
+    "command": "filename, io = mktemp()",
+    "description": "Create a temporary file",
+    "kind": "snippet",
+    "package": "",
+    "tags": [
+      "IO",
+      "file",
+      "temp",
+      "tmp"
+    ]
+  },
+  {
     "command": "",
     "description": "A package built to be a fast and flexible pure-Julia library for handling delimited text files.",
     "kind": "header",
